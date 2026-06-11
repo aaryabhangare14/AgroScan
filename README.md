@@ -1,4 +1,4 @@
-## s
+## Project Structure
 
 ```text
 AgroScan/
